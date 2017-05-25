@@ -1,5 +1,5 @@
 # Videos Used in Case Studies
-Event types:
+Categories:
 * Bicycle
 * Corner
 * Direct Free Kick
@@ -14,3 +14,5 @@ Event types:
 * Foul
 * Pass
 * Throw In
+
+There are also 3 videos at the root, which are transition videos in Turkish ("Video is about to play!", "Again", and a blank video to clear the screen)
